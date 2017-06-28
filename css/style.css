@@ -149,7 +149,7 @@ b.doing.r5 img:hover { width: 47px;
 .info_timeline ul li .con p { line-height: 25px; }
 .info_timeline ul.focus li.curr .con p { color: #666; }
 .info_timeline ul li .con p.desc,.info_timeline ul.focus li.curr .con p.desc { color: #999; }
-.info_timeline ul.focus li.curr .dot,.info_timeline ul.focus li.curr .dot b { background-color: #109d59; }
+.info_timeline ul.focus li.curr .dot,.info_timeline ul.focus li.curr .dot b { background-color: #068388; }
 .info_timeline ul.focus li .dot,.info_timeline ul.focus li .dot b { background-color: #bbb; }
 .info_timeline ul.focus li .con h3,.info_timeline ul.focus li .con p,.info_timeline ul.focus li .con p.desc { color: #bbb; }
 
