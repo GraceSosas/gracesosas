@@ -209,7 +209,7 @@ if (annyang) {
   var commands = {
     'hello': function(){ soundhelp(); },
     'over': function(){ soundhelpClose(); },
-    'contact (you)': function() { $('.tel_me').click(); },
+    // 'contact (you)': function() { $('.tel_me').click(); },
     'close': function(){ $('.tip_close,.tip_area_close').click(); },
     'print (now)': function(){ $('.button_print').click(); },
     '(your) works': function(){ $('.product_1').click(); },
