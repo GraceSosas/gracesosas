@@ -10,32 +10,32 @@ $(function() {
     });
 
     //animate avatar info
-    $('.avatar_pic,.tel_me').click(function(){
-        $('.tip_avatar_bg').show().transition({ 
-            opacity: 100,
-            top: '0',
-            left: '0',
-            width: '100%',
-            height: '100%',
-            rotateX: '180deg'
-        },1000,'easeOutQuart',function(){
-            $('body').addClass('of');
-            $('.tip_avatar').show().transition({
-                opacity: 100
-            },500,function(){
-                $('.tip_avatar_bg').hide().css({
-                    opacity: 0,
-                    top: '50%',
-                    left: '50%',
-                    width: '20px',
-                    height: '20px',
-                    scale: 1,
-                    y:0,
-                    rotateX: '0'
-                });
-            });
-        });
-    });
+    // $('.avatar_pic,.tel_me').click(function(){
+    //     $('.tip_avatar_bg').show().transition({ 
+    //         opacity: 100,
+    //         top: '0',
+    //         left: '0',
+    //         width: '100%',
+    //         height: '100%',
+    //         rotateX: '180deg'
+    //     },1000,'easeOutQuart',function(){
+    //         $('body').addClass('of');
+    //         $('.tip_avatar').show().transition({
+    //             opacity: 100
+    //         },500,function(){
+    //             $('.tip_avatar_bg').hide().css({
+    //                 opacity: 0,
+    //                 top: '50%',
+    //                 left: '50%',
+    //                 width: '20px',
+    //                 height: '20px',
+    //                 scale: 1,
+    //                 y:0,
+    //                 rotateX: '0'
+    //             });
+    //         });
+    //     });
+    // });
 
     $('.tip_close').click(function(){
         $(this).transition({
