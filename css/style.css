@@ -147,15 +147,15 @@ b.doing.r5 img:hover { width: 47px;
 .info_content p em { margin: 0 5px; }
 .info_content ul li { list-style: none; overflow: hidden; position: relative; }
 .info_content ul li h3 { font-size: 12px; color: #333; line-height: 25px; }
-.info_content ul li:hover h3 { color: #109d59; }
+.info_content ul li:hover h3 { color: #068388; }
 .info_content ul li h3 i { float: left; margin-right: 10px;  }
-.info_content ul li:hover h3 i { color: #109d59; }
+.info_content ul li:hover h3 i { color: #068388; }
 .info_content ul li h3 em { color: #999; padding-left: 10px; }
 .info_content ul li p { padding-left: 26px; color: #999; }
 .info_content ul li p i { margin-left: 5px; }
 .info_content ul li .btn_go i { float: right; font-size: 20px; }
 .info_content ul li .btn_more { width: 80px; height: 30px; line-height: 30px; border: 1px #ccc solid; display: block; margin-left: 26px; text-align: center; display: none; }
-.info_content ul:hover li .btn_more { display: block; color: #109d59; }
+.info_content ul:hover li .btn_more { display: block; color: #068388; }
 
 .info_timeline ul li { list-style: none; position: relative; overflow: hidden; padding-bottom: 20px; }
 .info_timeline ul li .dot { width: 2px; height: 100%; position: absolute; left: 4px; top: 0; background-color: #666; }
