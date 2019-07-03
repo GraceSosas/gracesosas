@@ -137,7 +137,7 @@ b.doing.r5 img:hover { width: 47px;
 .base { padding: 27px 0 0; position: relative; }
 .base p { color: #aaa; line-height: 20px; }
 .base p.desc { color: #ccc; }
-.base h2 { font-size: 32px; color: #999; font-weight: normal; padding: 5px 0; }
+.base h2 { font-size: 32px; color: #333; font-weight: normal; padding: 5px 0; }
 .base span p { padding: 0 0 10px; }
 .base span i { font-size: 16px; color: #999; margin-right: 5px; float: left; }
 .tel_me { color: #aaa; }
