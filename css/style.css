@@ -99,7 +99,7 @@ i { font-size: 16px; }
 .content { width: 88%; padding: 6%; margin: 0; }
 .header { padding: 0 0 3%; }
 .avatar { width: 152px; height: 152px; position: relative; }
-.avatar .avatar_pic { width: 150px; height: 150px; display: block; background: url(../images/background.png) no-repeat center center;  border: 1px #ccc solid; overflow: hidden; cursor: default;}
+.avatar .avatar_pic { width: 150px; height: 150px; display: block; background: url(../images/grace_mary_sosas.jpg) no-repeat center center;  border: 1px #ccc solid; overflow: hidden; cursor: default;}
 .avatar:hover .avatar_pic { animation:myloading 1s linear infinite; -moz-animation:myloading 1s linear infinite; -webkit-animation:myloading 1s linear infinite; -o-animation:myloading 1s linear infinite; }
 .avatar .avatar_pic em { width: 130px;
     height: 130px;
